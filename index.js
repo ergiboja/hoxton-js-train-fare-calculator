@@ -17,5 +17,5 @@ else if (age>65){
 
 }
 else{
-    console.log("Your Total price including Discount is :",cost,"Euro")
+    console.log("Your Total price is :",cost,"Euro")
 }
